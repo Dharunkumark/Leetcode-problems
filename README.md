@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Dharunkumark/Leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [1512-number-of-good-pairs](https://github.com/Dharunkumark/Leetcode-problems/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
@@ -17,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Dharunkumark/Leetcode-problems/tree/master/1512-number-of-good-pairs) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Dharunkumark/Leetcode-problems/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Dharunkumark/Leetcode-problems/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
