@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Dharunkumark/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [1512-number-of-good-pairs](https://github.com/Dharunkumark/Leetcode-problems/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
 |  |
@@ -26,4 +27,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Dharunkumark/Leetcode-problems/tree/master/0141-linked-list-cycle) |
+| [0283-move-zeroes](https://github.com/Dharunkumark/Leetcode-problems/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
