@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Dharunkumark/Leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Dharunkumark/Leetcode-problems/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1512-number-of-good-pairs](https://github.com/Dharunkumark/Leetcode-problems/tree/master/1512-number-of-good-pairs) |
+| [2574-left-and-right-sum-differences](https://github.com/Dharunkumark/Leetcode-problems/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Dharunkumark/Leetcode-problems/tree/master/0945-minimum-increment-to-make-array-unique) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/Dharunkumark/Leetcode-problems/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
