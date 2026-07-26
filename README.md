@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Dharunkumark/Leetcode-problems/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1512-number-of-good-pairs](https://github.com/Dharunkumark/Leetcode-problems/tree/master/1512-number-of-good-pairs) |
 | [2574-left-and-right-sum-differences](https://github.com/Dharunkumark/Leetcode-problems/tree/master/2574-left-and-right-sum-differences) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Dharunkumark/Leetcode-problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Dharunkumark/Leetcode-problems/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Dharunkumark/Leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1512-number-of-good-pairs](https://github.com/Dharunkumark/Leetcode-problems/tree/master/1512-number-of-good-pairs) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Dharunkumark/Leetcode-problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Counting
 |  |
 | ------- |
@@ -73,4 +75,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/Dharunkumark/Leetcode-problems/tree/master/2574-left-and-right-sum-differences) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Dharunkumark/Leetcode-problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
