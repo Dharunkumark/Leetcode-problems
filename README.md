@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Dharunkumark/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Dharunkumark/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Dharunkumark/Leetcode-problems/tree/master/0414-third-maximum-number) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Dharunkumark/Leetcode-problems/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1512-number-of-good-pairs](https://github.com/Dharunkumark/Leetcode-problems/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Dharunkumark/Leetcode-problems/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1512-number-of-good-pairs](https://github.com/Dharunkumark/Leetcode-problems/tree/master/1512-number-of-good-pairs) |
 ## Linked List
 |  |
@@ -53,9 +55,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Dharunkumark/Leetcode-problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Dharunkumark/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Dharunkumark/Leetcode-problems/tree/master/0414-third-maximum-number) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Dharunkumark/Leetcode-problems/tree/master/0945-minimum-increment-to-make-array-unique) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Dharunkumark/Leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Dharunkumark/Leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
+## Greedy
+|  |
+| ------- |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Dharunkumark/Leetcode-problems/tree/master/0945-minimum-increment-to-make-array-unique) |
 <!---LeetCode Topics End-->
