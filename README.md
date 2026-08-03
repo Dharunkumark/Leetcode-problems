@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Dharunkumark/Leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/Dharunkumark/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Dharunkumark/Leetcode-problems/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/Dharunkumark/Leetcode-problems/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Dharunkumark/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [1189-maximum-number-of-balloons](https://github.com/Dharunkumark/Leetcode-problems/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/Dharunkumark/Leetcode-problems/tree/master/1512-number-of-good-pairs) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Dharunkumark/Leetcode-problems/tree/master/0125-valid-palindrome) |
+| [0290-word-pattern](https://github.com/Dharunkumark/Leetcode-problems/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/Dharunkumark/Leetcode-problems/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Dharunkumark/Leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1189-maximum-number-of-balloons](https://github.com/Dharunkumark/Leetcode-problems/tree/master/1189-maximum-number-of-balloons) |
