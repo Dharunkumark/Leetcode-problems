@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Dharunkumark/Leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Dharunkumark/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dharunkumark/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Dharunkumark/Leetcode-problems/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/Dharunkumark/Leetcode-problems/tree/master/0198-house-robber) |
@@ -116,4 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Dharunkumark/Leetcode-problems/tree/master/0053-maximum-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Dharunkumark/Leetcode-problems/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Dharunkumark/Leetcode-problems/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
