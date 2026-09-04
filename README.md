@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Dharunkumark/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Dharunkumark/Leetcode-problems/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Dharunkumark/Leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Dharunkumark/Leetcode-problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Dharunkumark/Leetcode-problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
 |  |
